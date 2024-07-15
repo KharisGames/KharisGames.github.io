@@ -7,5 +7,7 @@ nav-menu: true
 
 # COMING SOON
 
-**Duck Counter** is a rapid single and multiplayer game where you hone your counting skills. A number of ducks (or other objects) will appear and you must select the correct amount faster than your opponent.
+**Duck Counter** is a fast paced single and multiplayer game where you hone your counting skills. A number of ducks (or other objects) will appear and you must select the correct amount faster than your opponent.
   
+The concept of this game is based on the research of physical therapist and founder of The Institutes for the Achievement of Human Potential (IAHP), Glenn Doman. He developed methods for early childhood education that involved using flashcards to teach babies and young children various concepts, including reading, mathematics, and general knowledge. He discovered that very young children could learn to recognize quantities and count large numbers of objects quickly by being shown flashcards with different quantities of dots. By making this into a challenging competitive game, you or your kids can learn how to recognize and identify quantities of objevts instantly, without having to count them one and one.
+
