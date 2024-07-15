@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Euclidian Space Explorer
-image: assets/images/pic01.jpg
+image: assets/images/rocket.jpg
 nav-menu: true
 ---
 
