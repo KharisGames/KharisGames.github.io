@@ -1,8 +1,8 @@
 # site settings
 title: Kharis 
-subtitle: Gane Studio
+subtitle: Game Studio
 email: kharisgamestudio@gmail.com
-description: "Kharis */kəˈɹɪz/* the Greek χάρις meaning grace."
+description: "Kharis */kəˈɹɪz/*, from the Greek χάρις meaning grace."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kharisgames.com" # the base hostname & protocol for your site
 author:
