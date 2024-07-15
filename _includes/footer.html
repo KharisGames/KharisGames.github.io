@@ -1,7 +1,11 @@
 <!-- Contact -->
 <section id="contact">
 	<div class="inner">
+		{% if site.email %}
 		<section>
+			<header class="major">
+                        <h2>Contact me</h2>
+                        </header>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -21,7 +25,9 @@
 				</ul>
 			</form>
 		</section>
+		{% endif %}
 		<section class="split">
+			{% if site.email %}
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
@@ -29,6 +35,8 @@
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
+			{% endif %}
+			{% if site.phone %}
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
@@ -36,6 +44,8 @@
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
 			</section>
+			{% endif %}
+			{% if site.street_address or site.city or site.zip_code or site.country %}
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -59,6 +69,7 @@
 					</span>
 				</div>
 			</section>
+			{% endif %}
 		</section>
 	</div>
 </section>
