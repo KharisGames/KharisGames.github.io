@@ -3,7 +3,7 @@ layout: page
 title: Duck Counter
 image: assets/images/duck_counter.jpg
 nav-menu: true
-excerpt: "A fast paced single and multiplayer game honing your counting skills"
+description: "A fast paced single and multiplayer game honing your counting skills"
 ---
 
 # COMING SOON
