@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duck Counter
-image: assets/images/duck_counter.jpg
+image: images/DuckSplash.png
 nav-menu: true
 description: "A fast paced single and multiplayer game honing your counting skills"
 ---
