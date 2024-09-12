@@ -3,7 +3,17 @@ title: Got a mobile device for development
 tags: [General, Hardware]
 ---
 
-Today I received a Sony Xperia phone which I am planning to use for development on the android platform. Android is supposedly easier to use with Godot. Godot is fantastic and I can quickly export an XCode project and test it on my iPhone. But it's still a whole thing to do with exporting, opening XCode, tweak some settings, plug in the phone, run and test it. Do that every time you have tweaked anything in the game and a lot of time is wasted.
+# Header
+
+- list 1
+- list 2
+- list 3
+
+**bold**
+
+*italic*
+
+Today I received a **Sony Xperia** phone which I am planning to use for development on the android platform. Android is supposedly easier to use with Godot. Godot is fantastic and I can quickly export an XCode project and test it on my iPhone. But it's still a whole thing to do with exporting, opening XCode, tweak some settings, plug in the phone, run and test it. Do that every time you have tweaked anything in the game and a lot of time is wasted.
 
 ![Photo of an Xperia phone](/images/Xperia.jpg)
 
