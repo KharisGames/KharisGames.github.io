@@ -6,7 +6,9 @@ nav-menu: true
 description: "Captain the space ship Euclid through a mine field of asteroids, meteors and planets, picking up power-ups along the way, and landing safely at your destination"
 ---
 
-# COMING SOON
+# Release 1.0
+
+[DOWNLOAD/PLAY Euclidian Space Explorer on Itch.io](https://kharisgames.itch.io/euclidean-space-explorer)
 
 **Explore equclidian space and learn trigonometry on the way!** You will captain the space ship Euclid through a mine field of asteroids, meteors and planets, picking up power-ups along the way, and landing safely at your destination. Euclid is controlled by programming its navigation computer using mathematic formulas. 
 
