@@ -40,13 +40,13 @@ This game allows children of all ages to experiment with and learn basic trigono
 
   #sib-container input:-ms-input-placeholder {
     text-align: left;
-    font-family: Futura, sans-serif;
+    font-family: "Lucida Grande", sans-serif;
     color: #747576;
   }
 
   #sib-container input::placeholder {
     text-align: left;
-    font-family: Futura, sans-serif;
+    font-family: "Lucida Grande", sans-serif;
     color: #747576;
   }
 
@@ -63,14 +63,14 @@ This game allows children of all ages to experiment with and learn basic trigono
                  background-image: url(https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940);           background-size: cover;         background-repeat: no-repeat;         background-position: center center;           ">
   <div id="sib-form-container" class="sib-form-container">
     <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(0,0,0,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;">
-      <form id="sib-form" method="POST" action="https://1503e7dd.sibforms.com/serve/MUIFAAId8KZhTLxwt3DcXRYXAIriILUHXsHL_da-QKNUvcqjCcDGYu5aUGKBlnYOL7DEvSQFeJayODxTEKJbpYj5Lt2pSE_NoGm1xSL5f2Q6q3mXgylrLkFsOy1j2OqQ25wbrU5jFvEPDVWro5s6qoXRRcMFrutHr_cLYITB6Mxzf855htAC3NPDP7mcWc0j5fbr14IpbjvJeKuR">
+      <form id="sib-form" method="POST" action="https://1503e7dd.sibforms.com/serve/MUIFAPJjJSIt3sO4UB82TOCqScQLU7XrqifMgvPMXccgX1dVwTWNrU3J7Lv7bYbb2d-OnSaE2_VKF4i1SbLoZv1hPvghV7BToVLB4_2ASMhkdYr3o2mfxyb83v09-jWSPg-_wLwcEEkU8FcymNmj-bo70x1v7RIDyJmxBrceQw3lhiNfw3Evr09fv7oci9NzRblDh1OV3ggsuHQb">
         <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:Futura, sans-serif; color:#fafbfc; background-color:transparent; text-align:left">
+          <div class="sib-form-block" style="font-size:32px; text-align:left; font-weight:700; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#fafbfc; background-color:transparent; text-align:left">
             <p>Receive updates about Euclidian Space Explorer</p>
           </div>
         </div>
         <div style="padding: 8px 0;">
-          <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:Futura, sans-serif; color:#ffffff; background-color:transparent; text-align:left">
+          <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#ffffff; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
               <p>Subscribe to our newsletter and stay updated.</p>
             </div>
@@ -80,7 +80,7 @@ This game allows children of all ages to experiment with and learn basic trigono
           <div class="sib-input sib-form-block">
             <div class="form__entry entry_block">
               <div class="form__label-row ">
-                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:Futura, sans-serif; color:#ffffff;" for="EMAIL" data-required="*">Enter your email address to subscribe</label>
+                <label class="entry__label" style="font-weight: 700; text-align:left; font-size:16px; text-align:left; font-weight:700; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#ffffff;" for="EMAIL" data-required="*">Enter your email address to subscribe</label>
 
                 <div class="entry__field">
                   <input class="input " type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
@@ -89,7 +89,7 @@ This game allows children of all ages to experiment with and learn basic trigono
 
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Futura, sans-serif; color:#ffffff; text-align:left">
+              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#ffffff; text-align:left">
                 Provide your email address to subscribe. For e.g abc@xyz.com
               </label>
             </div>
@@ -109,7 +109,7 @@ This game allows children of all ages to experiment with and learn basic trigono
               </div>
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:Helvetica, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
-              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:Futura, sans-serif; color:#ffffff; text-align:left">
+              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Lucida Grande&quot;, sans-serif; color:#ffffff; text-align:left">
                 You may unsubscribe at any time using the link in our newsletter.
               </label>
             </div>
