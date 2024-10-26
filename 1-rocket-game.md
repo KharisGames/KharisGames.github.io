@@ -4,6 +4,7 @@ title: Euclidian Space Explorer
 image: assets/images/rocket.jpg
 nav-menu: true
 description: "Captain the space ship Euclid through a mine field of asteroids, meteors and planets, picking up power-ups along the way, and landing safely at your destination"
+permalink: /euclid/
 ---
 
 # Release 1.0
